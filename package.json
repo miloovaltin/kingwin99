@@ -1,16 +1,16 @@
 {
-"name": "kingwin99",
-"theme": "kingwin99",
-"version": "1.2.7",
-"description": "kingwin99 สมัครสมาชิกเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"kingwin99",
-"kingwin99 เครดิตฟรี",
-"kingwin99 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/kingwin99",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "kingwin99",
+  "theme": "kingwin99",
+  "version": "1.3.0",
+  "description": "kingwin99 สมัครสมาชิกเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "kingwin99",
+    "kingwin99 เครดิตฟรี",
+    "kingwin99 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/kingwin99",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
